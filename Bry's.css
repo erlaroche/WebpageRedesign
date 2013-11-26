@@ -1,0 +1,40 @@
+
+
+span{
+  
+  font-size: 25px;
+  border: 2px solid pink;
+  float: right;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.nav-button:hover{
+  background-color: gray;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+img{
+  /*border: 2px solid purple;*/
+  height: 60%;
+  float: left;
+  padding-right: 30px;
+}
+
+p{
+  font-size: 20px;
+}
+
+.row3{
+  float: right;
+}
+
+#SS1{
+  padding-right: 10px;
+}
+
+
+
+
+
